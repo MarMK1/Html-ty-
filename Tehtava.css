@@ -24,3 +24,13 @@ a, a:visited, a:active {
 h1, h2 {
     color: var(--accent-color);
 }
+
+nav a, nav:visited, a:active {
+
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #242424;
+    font-weight: bold;
+    margin-right: 24px;
+
+}
