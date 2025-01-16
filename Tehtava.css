@@ -34,3 +34,54 @@ nav a, nav:visited, a:active {
     margin-right: 24px;
 
 }
+
+.container {
+    width: 700px;
+    margin: 10px auto;
+}
+
+.logo {
+    max-width: 150px;
+    width: 96%;
+    height: auto;
+}
+
+nav li 
+{
+    display: inline;
+}
+
+nav ul {
+    padding-left: 0;
+}
+
+nav {
+    background-color: #e5e5e5;
+    padding: 14px 18px 14px 24px;
+}
+
+nav a, nav:visited, a:active {
+
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #242424;
+    font-weight: bold;
+    margin-right: 24px;
+
+}
+
+nac a:hover {
+    text-decoration: underline;
+
+}
+
+footer {
+    border-top: 1px dotted #e5e5e5;
+    padding-top: 14px;
+    font-size: 10px;
+}
+
+article img {
+    width: 25%;
+    height: auto;
+}
